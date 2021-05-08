@@ -1,5 +1,4 @@
 # All the functions will be here.
-import Draft as d
 
 key_pressed = input
 while key_pressed == True:
